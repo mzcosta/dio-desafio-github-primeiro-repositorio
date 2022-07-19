@@ -1,3 +1,11 @@
-Link para download do Git: 
+O Git Bash é um terminal extendido para otimizar o uso do Git.
 
-O Git Bash é um terminal extendido para otimizaro o uso do Git.
+Alguns comandos básicos utilizados no Git e GitHub são:
+
+git status --> indica o status do arquivo
+ls --> limpa a tela
+git commit -m "comentário" --> comita o status atual da pasta adicionando um comentário sobre a atualização realizada
+git push origin main --> envia as atualizações para o GitHub
+git clone https://endereço --> baixa a pasta de arquivos do GitHub para o gerenciador local.
+cd nome_do_diretorio_ou_pasta--> entra na pasta
+git add .--> adiciona as atualizações na pasta local
